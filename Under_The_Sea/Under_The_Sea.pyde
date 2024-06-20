@@ -1,10 +1,3 @@
-"""
-    Srijani Shreya
-    Code ToolKit: Python - Spring 2024
-    Midterm Project - Under the Sea
-    March 26, 2023
-"""
-
 obstacles = []
 num_obstacles = 11  # Total number of obstacles
 game_over = False
